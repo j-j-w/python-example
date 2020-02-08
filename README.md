@@ -2,6 +2,4 @@
 Python tutorial example
 
 # Author
-Jirakit Wattanapraphakorn - http://jamejirakit.me
-
-[My website](http://jamejirakit.me)
+Jirakit Wattanapraphakorn - [jamejirakit.me](http://jamejirakit.me)
