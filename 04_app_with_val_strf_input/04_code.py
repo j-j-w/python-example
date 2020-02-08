@@ -1,11 +1,11 @@
-# user_age is create user input by type integer
+# user_age input|int define user input by type integer
 user_age = int(input("Enter your age: "))
 
-# months is calculate months from age of user input
+# months int calculate months by user input age
 months = user_age * 12
 
-# days is calculate days from age of user input
+# days int calculate days by user input age
 days = user_age * 365
 
-# binding with variable and formatting from user input 
+# running with variable and formatting from user input 
 print(f"Your age {user_age} is equal to {months} months and equal to {days} days.")
